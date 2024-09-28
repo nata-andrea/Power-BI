@@ -9,7 +9,7 @@
 <div style="text-align: justify;">
 Informe de denuncias presenta estadísticas para identificar las denuncias por comuna, las denuncias por motivo y las denuncias por rubro para la ciudad de Buenos Aires. 
 
-[![Informe - denuncias](video_proyecto_0.gif)](https://app.powerbi.com/view?r=eyJrIjoiY2Y5NmM2MTQtNmNjMS00NmQ5LWE2MmQtMjRmZTQzM2FmNTBkIiwidCI6ImU4MjE0OTM3LTIzM2ItNGIzNi04NmJmLTBiNWYzMzM3YmVlMSIsImMiOjF9&embedImagePlaceholder=true)
+[![Informe - denuncias](./proyecto_0_Denuncias/video_proyecto_0.gif)](https://app.powerbi.com/view?r=eyJrIjoiY2Y5NmM2MTQtNmNjMS00NmQ5LWE2MmQtMjRmZTQzM2FmNTBkIiwidCI6ImU4MjE0OTM3LTIzM2ItNGIzNi04NmJmLTBiNWYzMzM3YmVlMSIsImMiOjF9&embedImagePlaceholder=true)
 
 ## Licencia
 
