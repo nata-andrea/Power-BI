@@ -14,7 +14,7 @@ Informe de denuncias presenta estadísticas para identificar las denuncias por c
 ## [Proyecto 1: Industria de videojuegos]()
 Reporte interactivo para analizar las ventas de millones de copias de videojuegos a nivel global.
 Se analizan por las categorías de año, región, plataforma, género y editorial.
-
+[![Informe - videojuegos](./proyecto_1_Industria_de_videojuegos/video_proyecto_1.gif)](https://app.powerbi.com/view?r=eyJrIjoiNDA5NmQ0ZmMtZTBmNi00NzE4LTkyNTItZTE3NTgyNDBmNTczIiwidCI6ImU4MjE0OTM3LTIzM2ItNGIzNi04NmJmLTBiNWYzMzM3YmVlMSIsImMiOjF9&embedImagePlaceholder=true&pageName=b6ea8bdd40f61a8426f1)
 
 ## Licencia
 
