@@ -1,5 +1,5 @@
 
-# Portafolio de proyectos - Power BI 
+# Portafolio de proyectos -  Power BI 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <div style="text-align: justify;">
@@ -13,7 +13,7 @@ Informe de denuncias presenta estadísticas para identificar las denuncias por c
 
 ## [Proyecto 1: Industria de videojuegos]()
 Reporte interactivo para analizar las ventas de millones de copias de videojuegos a nivel global.
-Se analizan por las categorías de año, región, plataforma, género y editorial
+Se analizan por las categorías de año, región, plataforma, género y editorial.
 
 
 ## Licencia
